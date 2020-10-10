@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <div>
         <Gallery images={[
-          'https://needsupply.com/dw/image/v2/BDJK_PRD/on/demandware.static/-/Sites-master/default/dwe7ebc3de/products/WPF12952/WPF12952_200220_NS_OF_1.jpg',
-          'https://needsupply.com/dw/image/v2/BDJK_PRD/on/demandware.static/-/Sites-master/default/dw7e2d7670/products/WPF12952/WPF12952_200220_NS_OF_3.jpg',
-          'https://needsupply.com/dw/image/v2/BDJK_PRD/on/demandware.static/-/Sites-master/default/dw2fb8c6c7/products/WPF12952/WPF12952_200220_NS_OF_5.jpg'
+          'https://cdn.shopify.com/s/files/1/0635/0815/products/S11-20047-STL-0418_1440x.jpg?v=1599209042',
+          'https://cdn.shopify.com/s/files/1/0635/0815/products/S60-19860-STL-1915_1440x.jpg?v=1599207051',
+          'https://cdn.shopify.com/s/files/1/0635/0815/products/S18-19860-STL-0644_1440x.jpg?v=1600060568'
         ]} />
       </div>
     );
